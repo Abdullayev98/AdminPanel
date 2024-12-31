@@ -342,7 +342,7 @@
  </script>
  
  
- <script>
+ {{-- <script>
      ClassicEditor
          .create( document.querySelector( '#content' ), {
              ckfinder: {
@@ -405,6 +405,6 @@
          .catch( function( error ) {
              console.error( error );
          } );
- </script>
+ </script> --}}
 </body>
 </html>
